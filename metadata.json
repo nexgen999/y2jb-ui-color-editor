@@ -1,0 +1,6 @@
+{
+  "name": "Y2JB UI Color Editor",
+  "description": "Visual editor to customize the colors of the Y2JB Autoloader interface without altering the core logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
